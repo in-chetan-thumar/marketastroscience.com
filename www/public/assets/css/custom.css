@@ -1,0 +1,47 @@
+.required {
+    color: red;
+}
+.offcanvas-size-30 {
+    width: 30% !important;
+}
+.offcanvas-size-50 {
+    width: 50% !important;
+}
+.offcanvas-size-85 {
+    width: 85% !important;
+}
+
+.table-view-1 {
+    width: 1%;
+}
+.table-view-5 {
+    width: 5%;
+}
+
+.table-view-10 {
+    width: 10%;
+}
+.table-view-15 {
+    width: 15%;
+}
+.table-view-20 {
+    width: 20%;
+}
+.table-view-30 {
+    width: 30%;
+}
+
+.table-view-40 {
+    width: 40%;
+}
+.table-view-50 {
+    width: 50%;
+}
+
+.table-responsive {
+    min-height: 400px !important;
+}
+.dt-search,
+.dt-length {
+    display: none !important;
+}

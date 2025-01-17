@@ -70,7 +70,7 @@
                             </div>
                             <div class="blog_info">
                                 <h5>{{ $blog->title }}</h5>
-                                <p>{{ $blog->description }}</p>
+                                <p>{{ \Illuminate\Support\Str::limit($blog->description, 200, '...') }}</p>
                             </div>
                         </div>
                     </li>

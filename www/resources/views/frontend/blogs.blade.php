@@ -83,7 +83,7 @@
                     </div>
                     <div class="blog_list_info">
                         <h3>{{ $other_blog->title }}</h3>
-                        <p>{{ $other_blog->description }}</p>
+                        <p>{{ \Illuminate\Support\Str::limit($other_blog->description, 200, '...') }}</p>
 
                         {{-- <p>Common emotions that traders experience:</p>
 

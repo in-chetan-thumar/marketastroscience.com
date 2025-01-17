@@ -4,6 +4,7 @@
     Blog list
 @endsection
 @section('css')
+    <link href=" {{ asset('assets/css/ckeditor5.css') }}" rel="stylesheet" type="text/css">
 @endsection
 @section('content')
     @component('components.breadcrumb', ['lists' => ['Dashboard' => route('root')]])
@@ -84,6 +85,15 @@
     </div>
 @endsection
 @section('script-bottom')
+    <script type="importmap">
+			{
+				"imports": {
+					"ckeditor5": "https://cdn.ckeditor.com/ckeditor5/42.0.0/ckeditor5.js",
+					"ckeditor5/": "https://cdn.ckeditor.com/ckeditor5/42.0.0/"
+				}
+			}
+		</script>
+
     <script type="text/javascript" src="{{ asset('assets/vendor/jsvalidation/js/jsvalidation.js') }}"></script>
     <script type="text/javascript" src="{{ asset('assets/js/blog.js') }}"></script>
     <script>

@@ -29,48 +29,28 @@
                             e</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            s</div>
+                            c</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            i</div>
+                            o</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            g</div>
+                            d</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            n</div> <br>
+                            e</div> <br>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            U</div>
+                            T</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            n</div>
-                        <div
-                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            i</div>
-                        <div
-                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            q</div>
-                        <div
-                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            u</div>
+                            h</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             e</div>
-                    </h2>
-                    <h2 class="sec-title-3">
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            D</div>
-                        <div
-                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            i</div>
-                        <div
-                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            g</div>
-                        <div
-                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            i</div>
+                            S</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             t</div>
@@ -79,51 +59,95 @@
                             a</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            l</div> <br>
+                            r</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            E</div>
+                            s</div>
+                    </h2>
+                    <h2 class="sec-title-3">
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            x</div>
+                            S</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            p</div>
+                            m</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            e</div>
+                            a</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             r</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            i</div>
+                            t</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             e</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            r</div> <br>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            T</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            r</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            a</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            d</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            i</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             n</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            c</div>
+                            g</div><br>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            D</div>
                         <div
                             style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
                             e</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            c</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            i</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            s</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            i</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            o</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            n</div>
+                        <div
+                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            s</div>
                     </h2>
                 </div>
                 <div class="hero__text-2">
                     <p style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                        Thinking, writing and planning with brand are just a of what we do. For
-                        more than 10 years, It’s more
-                        competitive space for agency.</p>
+                        For centuries, astrology has guided human choices. Now we bring that cosmic wisdom into the world of
+                        trading. By blending planetary movements with market trends, we empower traders to make informed,
+                        confident, and timely decisions.</p>
                     <div class="hero__button btn_wrapper"
                         style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
                         <a href="https://www.wealcoder.com/dev/html/axtra/service.html"
                             class="wc-btn-pink btn-hover btn-item"
                             style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><span
                                 style="top: 134.383px; left: 169.207px;"></span>
-                            Explore <br>our services <i class="fa-solid fa-arrow-right"></i></a>
+                            Discover & <br> Register for Events <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -202,7 +226,8 @@
                                 </div>
                                 <div class="feature__item"
                                     style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                                    <img class="" src="{{ asset('frontend/images/feature/icon/3.png') }}" alt="Feature Icon">
+                                    <img class="" src="{{ asset('frontend/images/feature/icon/3.png') }}"
+                                        alt="Feature Icon">
                                     <h3 class="feature__title">Thinking</h3>
                                     <p>Creative typography plays the big role to pull off this trending more
                                         effectively with the
@@ -802,7 +827,8 @@
             </div>
 
             <div class="about__img-2 pb-130">
-                <img src="{{ asset('frontend/images/about/2/1.jpg') }}" alt="About Image" data-speed="0.2" data-lag="0"
+                <img src="{{ asset('frontend/images/about/2/1.jpg') }}" alt="About Image" data-speed="0.2"
+                    data-lag="0"
                     style="translate: none; rotate: none; scale: none; transform: translate(0px, -2806px); will-change: transform;">
             </div>
 

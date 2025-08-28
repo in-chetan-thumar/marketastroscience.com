@@ -6,12 +6,14 @@
       </div>
       <div class="header__nav-2">
         <ul class="main-menu menu-anim">
-          <li><a href="#"><div class="menu-text"><span>p</span><span>r</span><span>o</span><span>d</span><span>u</span><span>c</span><span>t</span></div></a>
+          <li><a href="#"><div class="menu-text"><span>a</span><span>b</span><span>o</span><span>u</span><span>t</span><span> </span><span>U</span><span>s</span></div></a>
+          </li>
+            <li><a href="#"><div class="menu-text"><span>p</span><span>r</span><span>o</span><span>d</span><span>u</span><span>c</span><span>t</span></div></a>
             <ul class="main-dropdown">
               <li><a target="_blank" href="https://www.grahchakra.com/grah-chakra">Grahchakra</a></li>
             </ul>
           </li>
-          <li><a href="#"><div class="menu-text"><span>s</span><span>e</span><span>r</span><span>v</span><span>i</span><span>c</span><span>e</span><span>s</span></div></a>
+          {{-- <li><a href="#"><div class="menu-text"><span>s</span><span>e</span><span>r</span><span>v</span><span>i</span><span>c</span><span>e</span><span>s</span></div></a>
             <ul class="main-dropdown">
               <li><a href="#">service 1</a></li>
               <li><a href="#">service 2</a></li>
@@ -19,9 +21,8 @@
               <li><a href="#">service 4</a></li>
               <li><a href="#">service 5</a></li>
             </ul>
-          </li>
-          <li><a href="#"><div class="menu-text"><span>a</span><span>b</span><span>o</span><span>u</span><span>t</span><span> </span><span>U</span><span>s</span></div></a>
-          </li>
+          </li> --}}
+          
            <li><a href="#"><div class="menu-text"><span>g</span><span>a</span><span>l</span><span>l</span><span>e</span><span>r</span><span>y</span></div></a>
           </li>
           <li><a href="#"><div class="menu-text"><span>s</span><span>t</span><span>u</span><span>d</span><span>y</span></div></a>

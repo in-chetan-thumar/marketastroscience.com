@@ -167,34 +167,26 @@
                         <div class="col-xxl-7 col-xl-7 col-lg-7 col-md-6">
                             <div class="sec-title-wrapper">
                                 <h2 class="sec-title title-anim" style="perspective: 400px;">
-                                    <div
-                                        style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 373px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                        Features are more helpful </div>
-                                    <div
-                                        style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 373px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                        to create creative shapes </div>
-                                    <div
-                                        style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 373px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                        as well.</div>
+                                    <div style="display: block; text-align: start;">Upcoming Events that Inspire</div>
+                                    <div style="display: block; text-align: start;">Learn, Predict & Grow</div>
+                                    <div style="display: block; text-align: start;">with Us.</div>
                                 </h2>
                             </div>
                         </div>
                         <div class="col-xxl-5 col-xl-5 col-lg-5 col-md-6">
                             <div class="feature__text text-anim">
                                 <p style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 219.456px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    We are constantly rethinking the future by creating the </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 219.456px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    next generation of products, brands and services from </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 219.456px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    a hybrid perspective. The unthinkable today becomes </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 219.456px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    inevitable.</div>
-                                </p>
+                                <div style="display: block; text-align: start;">
+                                    Discover upcoming astrology & market science events designed to
+                                    expand your knowledge and sharpen your predictions.
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    Be part of interactive sessions, get expert insights, and
+                                    connect with like-minded learners.
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    Don’t just watch the future unfold — predict it with us.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -206,41 +198,28 @@
                     <div class="row">
                         <div class="col-xxl-12">
                             <div class="feature__list animation__feature2">
-                                <div class="feature__item"
-                                    style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
+                                <div class="feature__item">
                                     <img src="{{ asset('frontend/images/feature/icon/1.png') }}" alt="Feature Icon">
-                                    <h3 class="feature__title">Branding</h3>
-                                    <p>Having these marketplace to your branded skilled team of designers and
-                                        developers who
-                                        embracement
-                                        perfection.</p>
+                                    <h3 class="feature__title">Live Webinars</h3>
+                                    <p>Join live sessions with experts to understand how astrology and market science merge
+                                        to predict trends.</p>
                                 </div>
-                                <div class="feature__item"
-                                    style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
+                                <div class="feature__item">
                                     <img src="{{ asset('frontend/images/feature/icon/2.png') }}" alt="Feature Icon">
-                                    <h3 class="feature__title">Optimum</h3>
-                                    <p>Brand identity design a the key to success whether you breath rebranding an
-                                        existing business
-                                        or
-                                        creating a business</p>
+                                    <h3 class="feature__title">Workshops</h3>
+                                    <p>Hands-on learning experiences designed to help you apply predictions in real
+                                        scenarios.</p>
                                 </div>
-                                <div class="feature__item"
-                                    style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                                    <img class="" src="{{ asset('frontend/images/feature/icon/3.png') }}"
-                                        alt="Feature Icon">
-                                    <h3 class="feature__title">Thinking</h3>
-                                    <p>Creative typography plays the big role to pull off this trending more
-                                        effectively with the
-                                        thinking use a thicker point</p>
+                                <div class="feature__item">
+                                    <img src="{{ asset('frontend/images/feature/icon/3.png') }}" alt="Feature Icon">
+                                    <h3 class="feature__title">Networking</h3>
+                                    <p>Connect with a community of learners, researchers, and professionals who share your
+                                        passion.</p>
                                 </div>
-                                <div class="feature__item"
-                                    style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
+                                <div class="feature__item">
                                     <img src="{{ asset('frontend/images/feature/icon/4.png') }}" alt="Feature Icon">
-                                    <h3 class="feature__title">Execution</h3>
-                                    <p>Stricky with multiple shades of the colours. However, this type of alone can
-                                        look awesome
-                                        forever
-                                        an online business</p>
+                                    <h3 class="feature__title">Exclusive Insights</h3>
+                                    <p>Get early access to research, predictions, and trend reports before anyone else.</p>
                                 </div>
                             </div>
                         </div>
@@ -251,113 +230,49 @@
         <!-- Feature area end -->
 
 
+
         <!-- Roll area start -->
         <section class="roll__area-2">
             <div class="swiper roll__slider swiper-initialized swiper-horizontal swiper-pointer-events">
-                <div class="swiper-wrapper roll__wrapper" id="swiper-wrapper-7b33c4ee65b78d52" aria-live="off"
-                    style="transition-duration: 2000ms; transform: translate3d(-1501px, 0px, 0px);">
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="10"
-                        role="group" aria-label="11 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
+                <div class="swiper-wrapper roll__wrapper">
+                    <!-- Rashi Section -->
+                    <div class="swiper-slide roll__slide">
+                        <h2>Mesh (Aries)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="11"
-                        role="group" aria-label="12 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Vrishabh (Taurus)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="12"
-                        role="group" aria-label="13 / 15" style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Mithun (Gemini)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="13"
-                        role="group" aria-label="14 / 15" style="width: 300.2px;">
-                        <h2>Interaction</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Kark (Cancer)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="14"
-                        role="group" aria-label="15 / 15" style="width: 300.2px;">
-                        <h2>DIgital SOlution</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Singh (Leo)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="0" role="group" aria-label="1 / 15"
-                        style="width: 300.2px;">
-                        <h2>Development</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Kanya (Virgo)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-prev" data-swiper-slide-index="1" role="group"
-                        aria-label="2 / 15" style="width: 300.2px;">
-                        <h2>Studio</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Tula (Libra)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-active" data-swiper-slide-index="2" role="group"
-                        aria-label="3 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Vrischik (Scorpio)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-next" data-swiper-slide-index="3" role="group"
-                        aria-label="4 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Dhanu (Sagittarius)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="4" role="group" aria-label="5 / 15"
-                        style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Makar (Capricorn)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="5" role="group" aria-label="6 / 15"
-                        style="width: 300.2px;">
-                        <h2>typhography</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Kumbh (Aquarius)</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="6" role="group" aria-label="7 / 15"
-                        style="width: 300.2px;">
-                        <h2>Design</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="7" role="group" aria-label="8 / 15"
-                        style="width: 300.2px;">
-                        <h2>Interaction</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="8" role="group" aria-label="9 / 15"
-                        style="width: 300.2px;">
-                        <h2>Element</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="9" role="group"
-                        aria-label="10 / 15" style="width: 300.2px;">
-                        <h2>DIgital SOlution</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="10" role="group"
-                        aria-label="11 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="11" role="group"
-                        aria-label="12 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="12" role="group"
-                        aria-label="13 / 15" style="width: 300.2px;">
-                        <h2>Agency</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="13" role="group"
-                        aria-label="14 / 15" style="width: 300.2px;">
-                        <h2>Interaction</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="14" role="group"
-                        aria-label="15 / 15" style="width: 300.2px;">
-                        <h2>DIgital SOlution</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="0"
-                        role="group" aria-label="1 / 15" style="width: 300.2px;">
-                        <h2>Development</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                        data-swiper-slide-index="1" role="group" aria-label="2 / 15" style="width: 300.2px;">
-                        <h2>Studio</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                        data-swiper-slide-index="2" role="group" aria-label="3 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                        data-swiper-slide-index="3" role="group" aria-label="4 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
-                    </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="4"
-                        role="group" aria-label="5 / 15" style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Meen (Pisces)</h2>
                     </div>
                 </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
             </div>
         </section>
         <!-- Roll area end -->
@@ -367,113 +282,95 @@
         <section class="roll__area-3">
             <div dir="rtl"
                 class="swiper roll__slider swiper-initialized swiper-horizontal swiper-pointer-events swiper-rtl">
-                <div class="swiper-wrapper roll__wrapper" id="swiper-wrapper-84d8b0108f1bef388" aria-live="off"
-                    style="transition-duration: 2000ms; transform: translate3d(1501px, 0px, 0px);">
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="10"
-                        role="group" aria-label="11 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
+                <div class="swiper-wrapper roll__wrapper">
+                    <!-- Nakshatra Section -->
+                    <div class="swiper-slide roll__slide">
+                        <h2>Ashwini</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="11"
-                        role="group" aria-label="12 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Bharani</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="12"
-                        role="group" aria-label="13 / 15" style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Krittika</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="13"
-                        role="group" aria-label="14 / 15" style="width: 300.2px;">
-                        <h2>Interaction</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Rohini</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="14"
-                        role="group" aria-label="15 / 15" style="width: 300.2px;">
-                        <h2>DIgital SOlution</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Mrigashira</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="0" role="group" aria-label="1 / 15"
-                        style="width: 300.2px;">
-                        <h2>Development</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Ardra</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-prev" data-swiper-slide-index="1" role="group"
-                        aria-label="2 / 15" style="width: 300.2px;">
-                        <h2>Studio</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Punarvasu</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-active" data-swiper-slide-index="2" role="group"
-                        aria-label="3 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Pushya</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-next" data-swiper-slide-index="3" role="group"
-                        aria-label="4 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Ashlesha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="4" role="group" aria-label="5 / 15"
-                        style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Magha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="5" role="group" aria-label="6 / 15"
-                        style="width: 300.2px;">
-                        <h2>typhography</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Purva Phalguni</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="6" role="group" aria-label="7 / 15"
-                        style="width: 300.2px;">
-                        <h2>Design</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Uttara Phalguni</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="7" role="group" aria-label="8 / 15"
-                        style="width: 300.2px;">
-                        <h2>Interaction</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Hasta</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="8" role="group" aria-label="9 / 15"
-                        style="width: 300.2px;">
-                        <h2>Element</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Chitra</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="9" role="group"
-                        aria-label="10 / 15" style="width: 300.2px;">
-                        <h2>DIgital SOlution</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Swati</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="10" role="group"
-                        aria-label="11 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Vishakha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="11" role="group"
-                        aria-label="12 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Anuradha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="12" role="group"
-                        aria-label="13 / 15" style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Jyeshtha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="13" role="group"
-                        aria-label="14 / 15" style="width: 300.2px;">
-                        <h2>Interaction</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Moola</h2>
                     </div>
-                    <div class="swiper-slide roll__slide" data-swiper-slide-index="14" role="group"
-                        aria-label="15 / 15" style="width: 300.2px;">
-                        <h2>DIgital SOlution</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Purva Ashadha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="0"
-                        role="group" aria-label="1 / 15" style="width: 300.2px;">
-                        <h2>Development</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Uttara Ashadha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate swiper-slide-duplicate-prev"
-                        data-swiper-slide-index="1" role="group" aria-label="2 / 15" style="width: 300.2px;">
-                        <h2>Studio</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Shravana</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                        data-swiper-slide-index="2" role="group" aria-label="3 / 15" style="width: 300.2px;">
-                        <h2>Strategy</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Dhanishta</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate swiper-slide-duplicate-next"
-                        data-swiper-slide-index="3" role="group" aria-label="4 / 15" style="width: 300.2px;">
-                        <h2>Branding</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Shatabhisha</h2>
                     </div>
-                    <div class="swiper-slide roll__slide swiper-slide-duplicate" data-swiper-slide-index="4"
-                        role="group" aria-label="5 / 15" style="width: 300.2px;">
-                        <h2>Agency</h2>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Purva Bhadrapada</h2>
+                    </div>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Uttara Bhadrapada</h2>
+                    </div>
+                    <div class="swiper-slide roll__slide">
+                        <h2>Revati</h2>
                     </div>
                 </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
             </div>
         </section>
         <!-- Roll area end -->
+
+
 
 
         <!-- Portfolio area start -->
@@ -483,292 +380,126 @@
                     <div class="col-xxl-12">
                         <div class="sec-title-wrapper text-anim">
                             <h2 class="sec-title-3 title-anim" style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: center; position: relative; translate: none; rotate: none; scale: none; transform-origin: 408.6px 50px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        S</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        e</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        l</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        e</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        c</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        t</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        e</div>
-                                    <div
-                                        style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                        d</div>
-                                </div>
-                                <div
-                                    style="display: block; text-align: center; position: relative; translate: none; rotate: none; scale: none; transform-origin: 408.6px 50px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    <span>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            P</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            r</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            o</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            j</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            e</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            c</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            t</div>
-                                        <div
-                                            style="position: relative; display: inline-block; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                                            s</div>
-                                    </span>
-                                </div>
+                                <div style="display: block; text-align: center;">Astro Market</div>
+                                <div style="display: block; text-align: center;"><span>Insights</span></div>
                             </h2>
                             <p class="sec-text" style="perspective: 400px;">
-                            <div
-                                style="display: block; text-align: left; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 18px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                Worked with global brands &amp; agency </div>
-                            <div
-                                style="display: block; text-align: left; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 18px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                at the intersection of flat design and </div>
-                            <div
-                                style="display: block; text-align: left; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 18px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                digital technology.</div>
+                            <div style="display: block; text-align: center;">
+                                Explore how planetary movements and cosmic patterns align with
+                                <br> market cycles, stock predictions, and wealth opportunities.
+                            </div>
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div
-                class="swiper portfolio__slider-2 swiper-fade swiper-initialized swiper-horizontal swiper-pointer-events swiper-watch-progress swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-bf92213331036bce1" aria-live="off"
-                    style="transition-duration: 0ms;">
-                    <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active"
-                        data-swiper-slide-index="4" role="group" aria-label="5 / 5"
-                        style="width: 1521px; opacity: 1; transform: translate3d(0px, 0px, 0px); transition-duration: 0ms;">
+            <div class="swiper portfolio__slider-2 swiper-fade swiper-initialized">
+                <div class="swiper-wrapper">
+
+                    <!-- Slide 1 -->
+                    <div class="swiper-slide">
                         <div class="portfolio__slide-2">
                             <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/5.jpg') }}" alt="Portfolio Image"></a>
+                                <a href="#"><img src="{{ asset('frontend/images/portfolio/2/1.jpg') }}"
+                                        alt="Astro Trading Strategy"></a>
                             </div>
                             <div class="slide-content">
-                                <h2 class="sec-title"> <a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">Lionpro
-                                        <span>Agency</span></a>
+                                <h2 class="sec-title">
+                                    <a href="#">Astro <span>Trading Strategy</span></a>
                                 </h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
+                                <p>Learn how planetary signals shape profitable trading opportunities with precise timing.
+                                </p>
                                 <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide swiper-slide-duplicate-next" data-swiper-slide-index="0" role="group"
-                        aria-label="1 / 5"
-                        style="width: 1521px; opacity: 1; transform: translate3d(-1521px, 0px, 0px); transition-duration: 0ms;">
-                        <div class="portfolio__slide-2">
-                            <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/1.jpg') }}" alt="Portfolio Image"></a>
-                            </div>
-                            <div class="slide-content">
-                                <h2 class="sec-title"> <a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">Lionpro
-                                        <span>Agency</span></a>
-                                </h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
-                                <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="#" class="btn-common">Explore Strategy <i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="swiper-slide" data-swiper-slide-index="1" role="group" aria-label="2 / 5"
-                        style="width: 1521px; opacity: 1; transform: translate3d(-3042px, 0px, 0px); transition-duration: 0ms;">
+                    <!-- Slide 2 -->
+                    <div class="swiper-slide">
                         <div class="portfolio__slide-2">
                             <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/2.jpg') }}" alt="Portfolio Image"></a>
+                                <a href="#"><img src="{{ asset('frontend/images/portfolio/2/2.jpg') }}"
+                                        alt="Market Predictions"></a>
                             </div>
                             <div class="slide-content">
-                                <h2 class="sec-title"><a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">crodyflw
-                                        <span>Website</span></a>
-                                </h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
+                                <h2 class="sec-title"><a href="#">Market <span>Predictions</span></a></h2>
+                                <p>Accurate forecasts on stock trends influenced by lunar phases and planetary motion.</p>
                                 <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="#" class="btn-common">View Predictions <i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="swiper-slide" data-swiper-slide-index="2" role="group" aria-label="3 / 5"
-                        style="width: 1521px; opacity: 1; transform: translate3d(-4563px, 0px, 0px); transition-duration: 0ms;">
+                    <!-- Slide 3 -->
+                    <div class="swiper-slide">
                         <div class="portfolio__slide-2">
                             <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/3.jpg') }}" alt="Portfolio Image"></a>
+                                <a href="#"><img src="{{ asset('frontend/images/portfolio/2/3.jpg') }}"
+                                        alt="Moon Cycle"></a>
                             </div>
                             <div class="slide-content">
-                                <h2 class="sec-title"> <a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">developers
-                                        <span>digital</span></a></h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
+                                <h2 class="sec-title"><a href="#">Moon <span>Cycles</span></a></h2>
+                                <p>Discover how new moon & full moon energy impacts global markets & investor behavior.</p>
                                 <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="#" class="btn-common">Explore Cycles <i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="3" role="group"
-                        aria-label="4 / 5"
-                        style="width: 1521px; opacity: 1; transform: translate3d(-6084px, 0px, 0px); transition-duration: 0ms;">
+                    <!-- Slide 4 -->
+                    <div class="swiper-slide">
                         <div class="portfolio__slide-2">
                             <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/4.jpg') }}" alt="Portfolio Image"></a>
+                                <a href="#"><img src="{{ asset('frontend/images/portfolio/2/4.jpg') }}"
+                                        alt="Backtested Research"></a>
                             </div>
                             <div class="slide-content">
-                                <h2 class="sec-title"> <a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">Lionpro
-                                        <span>marketeers</span></a></h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
+                                <h2 class="sec-title"><a href="#">Backtested <span>Research</span></a></h2>
+                                <p>Deep research combining astrology & technicals with backtested data for accuracy.</p>
                                 <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="#" class="btn-common">View Research <i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="swiper-slide swiper-slide-visible swiper-slide-active" data-swiper-slide-index="4"
-                        role="group" aria-label="5 / 5"
-                        style="width: 1521px; opacity: 1; transform: translate3d(-7605px, 0px, 0px); transition-duration: 0ms;">
+                    <!-- Slide 5 -->
+                    <div class="swiper-slide">
                         <div class="portfolio__slide-2">
                             <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/5.jpg') }}" alt="Portfolio Image"></a>
+                                <a href="#"><img src="{{ asset('frontend/images/portfolio/2/5.jpg') }}"
+                                        alt="Event Calendar"></a>
                             </div>
                             <div class="slide-content">
-                                <h2 class="sec-title"> <a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">Lionpro
-                                        <span>Agency</span></a>
-                                </h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
+                                <h2 class="sec-title"><a href="#">Astro <span>Event Calendar</span></a></h2>
+                                <p>Stay updated with eclipses, retrogrades & major planetary events influencing markets.</p>
                                 <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
+                                    <a href="#" class="btn-common">Check Events <i
+                                            class="fa-solid fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide swiper-slide-duplicate swiper-slide-next" data-swiper-slide-index="0"
-                        role="group" aria-label="1 / 5"
-                        style="width: 1521px; opacity: 0; transform: translate3d(-9126px, 0px, 0px); transition-duration: 0ms;">
-                        <div class="portfolio__slide-2">
-                            <div class="slide-img">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"><img
-                                        src="{{ asset('frontend/images/portfolio/2/1.jpg') }}" alt="Portfolio Image"></a>
-                            </div>
-                            <div class="slide-content">
-                                <h2 class="sec-title"> <a
-                                        href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html">Lionpro
-                                        <span>Agency</span></a>
-                                </h2>
-                                <p>We are passionate designers, developers and digital marketeers. We produce best
-                                    projects that
-                                    both
-                                    ourselves</p>
-                                <div class="btn-common-wrap">
-                                    <a href="https://www.wealcoder.com/dev/html/axtra/portfolio-details.html"
-                                        class="btn-common">View details <i class="fa-solid fa-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
 
+                <!-- Pagination -->
                 <div class="portfolio__slider-2-pagination--">
-                    <div
-                        class="swiper-pagination circle-pagination right swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal">
-                        <button class="swiper-pagination-bullet" tabindex="0">
-                            <svg class="circle-progress">
-                                <circle class="circle-origin" r="24.5" cx="25" cy="25"></circle>
-                            </svg><span></span>
-                        </button>
-
-                        <button class="swiper-pagination-bullet" tabindex="0">
-                            <svg class="circle-progress">
-                                <circle class="circle-origin" r="24.5" cx="25" cy="25"></circle>
-                            </svg><span></span>
-                        </button>
-
-                        <button class="swiper-pagination-bullet" tabindex="0">
-                            <svg class="circle-progress">
-                                <circle class="circle-origin" r="24.5" cx="25" cy="25"></circle>
-                            </svg><span></span>
-                        </button>
-
-                        <button class="swiper-pagination-bullet" tabindex="0">
-                            <svg class="circle-progress">
-                                <circle class="circle-origin" r="24.5" cx="25" cy="25"></circle>
-                            </svg><span></span>
-                        </button>
-
-                        <button class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0"
-                            aria-current="true">
-                            <svg class="circle-progress">
-                                <circle class="circle-origin" r="24.5" cx="25" cy="25"></circle>
-                            </svg><span></span>
-                        </button>
-                    </div>
+                    <div class="swiper-pagination circle-pagination right"></div>
                 </div>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
             </div>
         </section>
         <!-- Portfolio area end -->
+
 
 
         <!-- About area start -->
@@ -778,48 +509,47 @@
                     <div class="col-xxl-12">
                         <div class="sec-title-wrapper">
                             <h2 class="sec-title title-anim" style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 385px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    We design and develop </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 385px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    outstanding Digital </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 385px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Products and digital-first </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 385px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Brands.</div>
+                                <div style="display: block; text-align: start;">
+                                    Empowering Traders with
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    Astrological Insights
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    for Smarter Trading Decisions
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    and Predictive Analytics.
+                                </div>
                             </h2>
                         </div>
                         <div class="sec-text-wrapper">
                             <div class="sec-text text-anim">
-                                <p style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 216.262px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    We help brands stand out through powerful, elegant </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 216.262px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    visual design. Our design philosophy is shaped by our </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 216.262px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    experience growing up at our father’s bookbindery. </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 216.262px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Surrounded by the highest-quality materials and </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 216.262px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    turn-of-the-century machines, we observed the art of </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 216.262px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    true craftsmanship firsthand. </div>
+                                <p>
+                                <div style="display: block; text-align: start;">
+                                    Our platform combines the ancient wisdom of astrology
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    with modern trading algorithms to help traders anticipate
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    market movements and make informed investment decisions.
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    By analyzing planetary positions and historical trends,
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    we provide actionable insights that reduce risks and
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    maximize trading opportunities.
+                                </div>
                                 </p>
                             </div>
-                            <div class="sec-btn btn_wrapper"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                                <a class="wc-btn-pink btn-hover btn-item"
-                                    href="https://www.wealcoder.com/dev/html/axtra/about.html"><span></span>
-                                    Explore Us <i class="fa-solid fa-arrow-right"></i></a>
+                            <div class="sec-btn btn_wrapper">
+                                <a class="wc-btn-pink btn-hover btn-item" href="#">
+                                    <span></span> Explore Platform <i class="fa-solid fa-arrow-right"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -828,41 +558,34 @@
 
             <div class="about__img-2 pb-130">
                 <img src="{{ asset('frontend/images/about/2/1.jpg') }}" alt="About Image" data-speed="0.2"
-                    data-lag="0"
-                    style="translate: none; rotate: none; scale: none; transform: translate(0px, -2806px); will-change: transform;">
+                    data-lag="0">
             </div>
 
             <div class="container pb-140">
                 <div class="row">
                     <div class="col-xxl-12">
                         <h2 class="brand__title-2 title-anim" style="perspective: 400px;">
-                            <div
-                                style="display: block; text-align: center; position: relative; translate: none; rotate: none; scale: none; transform-origin: 648px 18px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                We worked with global largest brands </div>
+                            <div style="display: block; text-align: center;">
+                                Trusted by Traders Worldwide
+                            </div>
                         </h2>
                         <div class="brand__list-2">
-                            <div class="brand__item-2 fade_bottom"
-                                style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="brand__item-2 fade_bottom">
                                 <img src="{{ asset('frontend/images/brand/1.png') }}" alt="Brand Logo">
                             </div>
-                            <div class="brand__item-2 fade_bottom"
-                                style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="brand__item-2 fade_bottom">
                                 <img src="{{ asset('frontend/images/brand/2.png') }}" alt="Brand Logo">
                             </div>
-                            <div class="brand__item-2 fade_bottom"
-                                style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="brand__item-2 fade_bottom">
                                 <img src="{{ asset('frontend/images/brand/3.png') }}" alt="Brand Logo">
                             </div>
-                            <div class="brand__item-2 fade_bottom"
-                                style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="brand__item-2 fade_bottom">
                                 <img src="{{ asset('frontend/images/brand/4.png') }}" alt="Brand Logo">
                             </div>
-                            <div class="brand__item-2 fade_bottom"
-                                style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="brand__item-2 fade_bottom">
                                 <img src="{{ asset('frontend/images/brand/5.png') }}" alt="Brand Logo">
                             </div>
-                            <div class="brand__item-2 fade_bottom"
-                                style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
+                            <div class="brand__item-2 fade_bottom">
                                 <img src="{{ asset('frontend/images/brand/6.png') }}" alt="Brand Logo">
                             </div>
                         </div>
@@ -871,6 +594,7 @@
             </div>
         </section>
         <!-- About area end -->
+
 
 
         <!-- Service area start -->

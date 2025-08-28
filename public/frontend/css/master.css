@@ -2075,17 +2075,17 @@ img {
   color: var(--gray-2);
 }
 .wc-btn-pink {
-  border: 1px solid var(--secondary);
+  border: 1px solid #f186039d;
   color: var(--gray-2);
 }
 .wc-btn-pink:hover {
-  border-color: var(--pink-2);
+  border-color: #F18603;
 }
 .wc-btn-pink span {
-  background-color: var(--pink-2);
+  background-color: #F18603;
 }
 .wc-btn-light {
-  border: 1px solid var(--secondary);
+  border: 1px solid #f186039d;
   color: var(--gray-2);
 }
 .wc-btn-light:hover {
@@ -7262,7 +7262,7 @@ img {
 }
 .roll__area-3 {
   padding: 31px 10px;
-  background-color: var(--pink-2);
+  background-color: #F18603;
 }
 .roll__area-3 .roll__slide h2 {
   color: var(--black-2);
@@ -14201,7 +14201,7 @@ img {
   cursor: pointer;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  border: 1px solid rgba(0, 0, 0, 0.3);
+  border: 1px solid #f186036f;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .circle-pagination button.swiper-pagination-bullet {
@@ -14216,7 +14216,7 @@ img {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-color: var(--black-2);
+  background-color: #F18603;
   border-radius: 100%;
 }
 .circle-pagination .circle-progress {
@@ -14227,7 +14227,7 @@ img {
 }
 .circle-pagination .circle-origin {
   fill: transparent;
-  stroke: var(--black-2);
+  stroke: #F18603;
   stroke-width: 1;
   stroke-linecap: round;
   stroke-dasharray: 156px;

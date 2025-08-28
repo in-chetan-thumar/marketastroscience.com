@@ -596,112 +596,6 @@
         <!-- About area end -->
 
 
-
-        <!-- Service area start -->
-        <section class="service__area-2 pt-130 pb-110">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                        <div class="sec-text text-anim">
-                            <p style="perspective: 400px;">
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                We are passionate to create connected brands and </div>
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                services, and campaigns to enable stable and </div>
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                successful relationships between businesses and </div>
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 205px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                customers.</div>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
-                        <div class="sec-title-wrapper">
-                            <h2 class="sec-title title-anim" style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 318px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    We grow your brands </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 318px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    through bold service </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 318px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    we’re providing</div>
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="row pt-140">
-                    <div class="col-xxl-12">
-                        <div class="service__list-2 animation__service-2">
-                            <div class="service__item-2"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                                <div>
-                                    <img src="{{ asset('frontend/images/service/2/1.png') }}" alt="Service Icon">
-                                    <h3 class="service__title-2">Branding <br>Design</h3>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design
-                                        mainly philosophy.
-                                    </p>
-                                    <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service__item-2"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                                <div>
-                                    <img src="{{ asset('frontend/images/service/2/2.png') }}" alt="Service Icon">
-                                    <h3 class="service__title-2 ">Digital Product <br>Design</h3>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design
-                                        mainly philosophy.
-                                    </p>
-                                    <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="service__item-2"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                                <div>
-                                    <img src="{{ asset('frontend/images/service/2/3.png') }}" alt="Service Icon">
-                                    <h3 class="service__title-2">Architectural <br>Design</h3>
-                                    <p>We help brands stand out through aweful, elegant visual design. Our design
-                                        mainly philosophy.
-                                    </p>
-                                    <ul>
-                                        <li>+ Logo Design</li>
-                                        <li>+ Advertisement</li>
-                                        <li>+ Promotion</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xxl-12">
-                        <div class="service__btn-2 btn_wrapper"
-                            style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                            <a href="https://www.wealcoder.com/dev/html/axtra/service.html"
-                                class="wc-btn-pink btn-hover btn-item"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><span
-                                    style="top: -4.46338px; left: 140.6px;"></span> View <br>all services
-                                <i class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- Service area end -->
-
-
         <!-- Award area start -->
         <section class="award__area pt-130 pb-140">
             <div class="container">
@@ -709,15 +603,15 @@
                     <div class="col-xxl-12">
                         <div class="sec-title-wrapper pb-140">
                             <h2 class="sec-title title-anim" style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 425px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    We’re nominated as Agency of </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 425px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    the Year amongst best Digital </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 425px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Agencies Worldwide.</div>
+                                <div style="display: block; text-align: start;">
+                                    We’re recognized for Excellence in
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    Astro-Trading Innovation
+                                </div>
+                                <div style="display: block; text-align: start;">
+                                    and Predictive Trading Solutions Worldwide
+                                </div>
                             </h2>
                         </div>
                     </div>
@@ -725,49 +619,42 @@
                 <div class="row">
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                         <div class="award__left">
-                            <h4 class="award__text-2"
-                                style="translate: none; rotate: none; scale: none; transform: rotate(-43.0002deg); opacity: 1;">
-                                award</h4>
-                            <h3 class="award__text"
-                                style="translate: none; rotate: none; scale: none; transform: rotate(-43.0002deg); opacity: 1;">
-                                award</h3>
+                            <h4 class="award__text-2" style="transform: rotate(-43deg); opacity: 1;">award</h4>
+                            <h3 class="award__text" style="transform: rotate(-43deg); opacity: 1;">award</h3>
                             <img src="{{ asset('frontend/images/shape/3.png') }}" alt="Shape Image" data-speed="1"
-                                data-lag="0.2"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); will-change: transform;">
+                                data-lag="0.2" style="transform: translate(0px, 0px); will-change: transform;">
                         </div>
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-6">
                         <div class="award__right">
-                            <p>We're passionate about doing the best digital
-                                innovation we can and pushing new
-                                technology
-                                to its limits. And we achieve
-                                results we're proud of beyond the realm.</p>
+                            <p>Our Astro-Trading platform is dedicated to providing traders with astrological insights,
+                                predictive market signals, and advanced analytics to make informed trading decisions with
+                                confidence.</p>
                             <div class="award__list">
                                 <div class="award__item">
-                                    <p>Dribbble</p>
+                                    <p>AstroTrader</p>
                                     <p>Nominee</p>
+                                    <p>2025</p>
+                                </div>
+                                <div class="award__item">
+                                    <p>Market Astrology Awards</p>
+                                    <p>Winner</p>
+                                    <p>2024</p>
+                                </div>
+                                <div class="award__item">
+                                    <p>Global Trading Innovations</p>
+                                    <p>Nominee</p>
+                                    <p>2023</p>
+                                </div>
+                                <div class="award__item">
+                                    <p>FinTech Astrology Awards</p>
+                                    <p>Winner</p>
+                                    <p>2022</p>
+                                </div>
+                                <div class="award__item">
+                                    <p>Predictive Analytics Excellence</p>
+                                    <p>Winner</p>
                                     <p>2021</p>
-                                </div>
-                                <div class="award__item">
-                                    <p>Behance</p>
-                                    <p>Winner</p>
-                                    <p>2020</p>
-                                </div>
-                                <div class="award__item">
-                                    <p>Template UI</p>
-                                    <p>Nominee</p>
-                                    <p>2018</p>
-                                </div>
-                                <div class="award__item">
-                                    <p>Awwwards</p>
-                                    <p>Winner</p>
-                                    <p>2016</p>
-                                </div>
-                                <div class="award__item">
-                                    <p>Themeforest</p>
-                                    <p>Winner</p>
-                                    <p>2012</p>
                                 </div>
                             </div>
                         </div>
@@ -778,6 +665,7 @@
         <!-- Award area end -->
 
 
+
         <!-- CTA area start -->
         <section class="cta__area-2">
             <div class="container line pt-130 pb-120">
@@ -786,25 +674,24 @@
                     <div class="col-xxl-12">
                         <div class="cta__content-2">
                             <p class="cta__sub-title-2 title-anim" style="perspective: 400px;">
-                            <div
-                                style="display: block; text-align: center; position: relative; translate: none; rotate: none; scale: none; transform-origin: 518.4px 18.2px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                Have you project in mind?</div>
+                            <div style="display: block; text-align: center;">
+                                Want to Predict Market Trends?
+                            </div>
                             </p>
                             <h2 class="cta__title-2 title-anim" style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: center; position: relative; translate: none; rotate: none; scale: none; transform-origin: 518.4px 50px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Let’s make something </div>
-                                <div
-                                    style="display: block; text-align: center; position: relative; translate: none; rotate: none; scale: none; transform-origin: 518.4px 50px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    great together!</div>
+                                <div style="display: block; text-align: center;">
+                                    Leverage Astrology for Smarter
+                                </div>
+                                <div style="display: block; text-align: center;">
+                                    Trading Decisions Today!
+                                </div>
                             </h2>
-                            <div class="btn_wrapper"
-                                style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
+                            <div class="btn_wrapper" style="transform: translate(0px, 0px); opacity: 1;">
                                 <a href="https://www.wealcoder.com/dev/html/axtra/contact.html"
-                                    class="wc-btn-pink btn-hover btn-item"
-                                    style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"><span
-                                        style="top: -25.0638px; left: 190.54px;"></span>Contact <br>with us <i
-                                        class="fa-solid fa-arrow-right"></i></a>
+                                    class="wc-btn-pink btn-hover btn-item" style="transform: translate(0px, 0px);">
+                                    <span style="top: -25px; left: 190px;"></span>
+                                    Get Started Now <i class="fa-solid fa-arrow-right"></i>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -814,117 +701,93 @@
         <!-- CTA area end -->
 
 
-        <!-- Blog area start -->
-        <section class="blog__area-2 blog__animation">
-            <div class="container g-0 pt-150 pb-110">
-                <div class="row ">
-                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                        <div class="sec-title-wrapper">
-                            <h2 class="sec-title title-anim" style="perspective: 400px;">
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 199.994px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Updated </div>
-                                <div
-                                    style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 199.994px 30px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                    Journal</div>
-                            </h2>
-                        </div>
-                    </div>
-                    <div class="col-xxl-4 col-xl-4 col-lg-5 col-md-4">
-                        <div class="sec-text text-anim">
-                            <p style="perspective: 400px;">
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 170px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                We help brands stand out through aweful, </div>
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 170px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                elegant visual design. Our design mainly </div>
-                            <div
-                                style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; transform-origin: 170px 12.6px; transform: translate3d(0px, 0px, 0px); opacity: 1;">
-                                philosophy.</div>
-                            </p>
-                        </div>
-                    </div>
-                    <div class="col-xxl-4 col-xl-4 col-lg-3 col-md-4">
-                        <div class="sec-btn btn_wrapper"
-                            style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
-                            <a href="https://www.wealcoder.com/dev/html/axtra/blog.html"
-                                class="wc-btn-pink btn-hover btn-item"><span></span> Read <br>all journal <i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                </div>
 
-                <div class="row">
-                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                        <article class="blog__item-2"
-                            style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            <div class="blog__img-wrapper">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/blog-details.html">
-                                    <div class="img-box">
-                                        <img class="image-box__item" src="{{ asset('frontend/images/blog/1/1.jpg') }}"
-                                            alt="Blog Thumbnail">
-                                        <img class="image-box__item" src="{{ asset('frontend/images/blog/1/1.jpg') }}"
-                                            alt="BLog Thumbnail">
-                                    </div>
-                                </a>
-                            </div>
-                            <h4 class="blog__meta-2"><a href="https://www.wealcoder.com/dev/html/axtra/category.html">UI
-                                    Design</a> .
-                                02 May 2019</h4>
-                            <h5><a href="https://www.wealcoder.com/dev/html/axtra/blog-details.html"
-                                    class="blog__title-2">Ways of lying to yourself about your
-                                    new relationship.</a></h5>
-                        </article>
-                    </div>
-
-                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                        <article class="blog__item-2"
-                            style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            <div class="blog__img-wrapper">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/blog-details.html">
-                                    <div class="img-box">
-                                        <img class="image-box__item" src="{{ asset('frontend/images/blog/1/2.jpg') }}"
-                                            alt="Blog Thumbnail">
-                                        <img class="image-box__item" src="{{ asset('frontend/images/blog/1/2.jpg') }}"
-                                            alt="BLog Thumbnail">
-                                    </div>
-                                </a>
-                            </div>
-                            <h4 class="blog__meta-2"><a href="https://www.wealcoder.com/dev/html/axtra/category.html">UI
-                                    Design</a> .
-                                02 May 2019</h4>
-                            <h5><a href="https://www.wealcoder.com/dev/html/axtra/blog-details.html"
-                                    class="blog__title-2">How to manage a talented and
-                                    successful de sign team</a></h5>
-                        </article>
-                    </div>
-
-                    <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
-                        <article class="blog__item-2"
-                            style="translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">
-                            <div class="blog__img-wrapper">
-                                <a href="https://www.wealcoder.com/dev/html/axtra/blog-details.html">
-                                    <div class="img-box">
-                                        <img class="image-box__item" src="{{ asset('frontend/images/blog/1/3.jpg') }}"
-                                            alt="Blog Thumbnail">
-                                        <img class="image-box__item" src="{{ asset('frontend/images/blog/1/3.jpg') }}"
-                                            alt="BLog Thumbnail">
-                                    </div>
-                                </a>
-                            </div>
-                            <h4 class="blog__meta-2"><a href="https://www.wealcoder.com/dev/html/axtra/category.html">UI
-                                    Design</a> .
-                                02 May 2019</h4>
-                            <h5><a href="https://www.wealcoder.com/dev/html/axtra/blog-details.html"
-                                    class="blog__title-2">How to bring fold to your startup
-                                    company with Axtra</a></h5>
-                        </article>
-                    </div>
+       <!-- Blog area start -->
+<section class="blog__area-2 blog__animation">
+    <div class="container g-0 pt-150 pb-110">
+        <div class="row ">
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                <div class="sec-title-wrapper">
+                    <h2 class="sec-title title-anim" style="perspective: 400px;">
+                        <div style="display: block; text-align: start;">Latest</div>
+                        <div style="display: block; text-align: start;">Astro-Trading Insights</div>
+                    </h2>
                 </div>
             </div>
-        </section>
-        <!-- Blog area end -->
+            <div class="col-xxl-4 col-xl-4 col-lg-5 col-md-4">
+                <div class="sec-text text-anim">
+                    <p style="perspective: 400px;">
+                        <div style="display: block; text-align: start;">
+                            Stay ahead in trading with our daily astrological predictions, market trends, and insights.
+                        </div>
+                        <div style="display: block; text-align: start;">
+                            Our analyses combine ancient Nakshatra wisdom with modern market strategies.
+                        </div>
+                        <div style="display: block; text-align: start;">
+                            Make informed decisions and maximize your trading potential.
+                        </div>
+                    </p>
+                </div>
+            </div>
+            <div class="col-xxl-4 col-xl-4 col-lg-3 col-md-4">
+                <div class="sec-btn btn_wrapper">
+                    <a href="https://www.wealcoder.com/dev/html/axtra/blog.html"
+                       class="wc-btn-pink btn-hover btn-item"><span></span> Read <br>All Insights <i
+                            class="fa-solid fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                <article class="blog__item-2">
+                    <div class="blog__img-wrapper">
+                        <a href="#">
+                            <div class="img-box">
+                                <img class="image-box__item" src="{{ asset('frontend/images/blog/astro1.jpg') }}" alt="Astro Insight">
+                                <img class="image-box__item" src="{{ asset('frontend/images/blog/astro1.jpg') }}" alt="Astro Insight">
+                            </div>
+                        </a>
+                    </div>
+                    <h4 class="blog__meta-2"><a href="#">Market Astrology</a> . 28 Aug 2025</h4>
+                    <h5><a href="#" class="blog__title-2">How Nakshatras Influence Daily Trading Decisions</a></h5>
+                </article>
+            </div>
+
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                <article class="blog__item-2">
+                    <div class="blog__img-wrapper">
+                        <a href="#">
+                            <div class="img-box">
+                                <img class="image-box__item" src="{{ asset('frontend/images/blog/astro2.jpg') }}" alt="Astro Insight">
+                                <img class="image-box__item" src="{{ asset('frontend/images/blog/astro2.jpg') }}" alt="Astro Insight">
+                            </div>
+                        </a>
+                    </div>
+                    <h4 class="blog__meta-2"><a href="#">Trading Strategies</a> . 27 Aug 2025</h4>
+                    <h5><a href="#" class="blog__title-2">Using Astrology to Predict Market Volatility</a></h5>
+                </article>
+            </div>
+
+            <div class="col-xxl-4 col-xl-4 col-lg-4 col-md-4">
+                <article class="blog__item-2">
+                    <div class="blog__img-wrapper">
+                        <a href="#">
+                            <div class="img-box">
+                                <img class="image-box__item" src="{{ asset('frontend/images/blog/astro3.jpg') }}" alt="Astro Insight">
+                                <img class="image-box__item" src="{{ asset('frontend/images/blog/astro3.jpg') }}" alt="Astro Insight">
+                            </div>
+                        </a>
+                    </div>
+                    <h4 class="blog__meta-2"><a href="#">Nakshatra Forecasts</a> . 26 Aug 2025</h4>
+                    <h5><a href="#" class="blog__title-2">Top Nakshatra-Based Tips for Traders This Week</a></h5>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog area end -->
+
     </main>
 @endsection
 

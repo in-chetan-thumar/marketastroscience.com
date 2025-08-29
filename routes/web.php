@@ -93,6 +93,17 @@ Route::get('/', [App\Http\Controllers\Frontend\HomeController::class, 'index'])-
 Route::post('/enquiry-store', [App\Http\Controllers\Frontend\HomeController::class, 'enquiryStore'])->name('enquiry.store');
 Route::get('/view/blogs/{slug?}', [App\Http\Controllers\Frontend\HomeController::class, 'viewBlog'])->name('blog.view');
 
+// Event Registration Routes
+Route::get('/event/astro-trading-masterclass', [App\Http\Controllers\Frontend\EventController::class, 'index'])->name('event.landing');
+Route::post('/event/register', [App\Http\Controllers\Frontend\EventController::class, 'register'])->name('event.register');
+Route::post('/event/verify-otp', [App\Http\Controllers\Frontend\EventController::class, 'verifyOtp'])->name('event.verify.otp');
+Route::post('/event/resend-otp', [App\Http\Controllers\Frontend\EventController::class, 'resendOtp'])->name('event.resend.otp');
+Route::get('/event/success/{registrationId}', [App\Http\Controllers\Frontend\EventController::class, 'success'])->name('event.success');
+Route::post('/event/generate-referral', [App\Http\Controllers\Frontend\EventController::class, 'generateReferral'])->name('event.generate.referral');
+Route::get('/event/invite', [App\Http\Controllers\Frontend\EventController::class, 'invitePage'])->name('event.invite');
+Route::get('/event/feedback', [App\Http\Controllers\Frontend\EventController::class, 'feedbackPage'])->name('event.feedback');
+Route::post('/event/feedback', [App\Http\Controllers\Frontend\EventController::class, 'submitFeedback'])->name('event.feedback.submit');
+
 Route::get('/get-districts', [App\Http\Controllers\Frontend\HomeController::class, 'getDistricts']);
 
 
